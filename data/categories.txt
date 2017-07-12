@@ -36,7 +36,7 @@
 @food
 en:Food
 ru:Еда
-ar:الطعام
+ar:طعام
 cs:Jídlo
 da:Mad
 nl:Eten
@@ -68,7 +68,7 @@ sk:Jedlo
 @transport
 en:Transport
 ru:Транспорт
-ar:النقل
+ar:مواصلات
 cs:Doprava
 da:Transport
 nl:Transport
@@ -100,7 +100,7 @@ sk:Doprava
 @fuel
 en:2Gas
 ru:3^Заправка
-ar:1الغاز
+ar:1وقود
 cs:2^Čerpací stanice
 da:Brændstof|Benzin
 nl:3Benzine
@@ -132,7 +132,7 @@ sk:3^Čerpacia stanica
 @parking
 en:^Parking
 ru:^Парковка
-ar:^الاصطفاف
+ar:^موقف
 cs:^Parkoviště
 da:^Parkering
 nl:^Parkeerplaats
@@ -164,7 +164,7 @@ sk:^Parkovisko
 @shop
 en:^Shop
 ru:^Магазин
-ar:^المتجر
+ar:^متجر
 cs:^Obchod
 da:^Butik
 nl:^Winkel
@@ -197,7 +197,7 @@ sw:^Duka
 @hotel
 en:^Hotel
 ru:^Гостиница
-ar:^الفندق
+ar:^فندق
 cs:^Hotel
 da:^Hotel
 nl:^Hotel
@@ -261,7 +261,7 @@ sk:Pamätihodnosť
 @entertainment
 en:Entertainment
 ru:Развлечения
-ar:التسلية
+ar:ترفيه وتسلية
 cs:Zábava
 da:Underholdning
 nl:Uitgaan
@@ -293,7 +293,7 @@ sk:Zábava
 @atm
 en:^ATM
 ru:3^Банкомат
-ar:^ماكينةالصرافالآلي
+ar:^ماكينة صرافة آلية
 cs:3^Bankomat
 da:3^Hæveautomat
 nl:3^Geldautomaat
