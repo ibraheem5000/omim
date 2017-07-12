@@ -36,7 +36,7 @@
 @food
 en:Food
 ru:Еда
-ar:الطعام
+ar:طعام
 cs:Jídlo
 da:Mad
 nl:Eten
@@ -68,7 +68,7 @@ sk:Jedlo
 @transport
 en:Transport
 ru:Транспорт
-ar:النقل
+ar:مواصلات
 cs:Doprava
 da:Transport
 nl:Transport
@@ -100,7 +100,7 @@ sk:Doprava
 @fuel
 en:2Gas
 ru:3^Заправка
-ar:1الغاز
+ar:1وقود
 cs:2^Čerpací stanice
 da:Brændstof|Benzin
 nl:3Benzine
@@ -132,7 +132,7 @@ sk:3^Čerpacia stanica
 @parking
 en:^Parking
 ru:^Парковка
-ar:^الاصطفاف
+ar:^موقف
 cs:^Parkoviště
 da:^Parkering
 nl:^Parkeerplaats
@@ -164,7 +164,7 @@ sk:^Parkovisko
 @shop
 en:^Shop
 ru:^Магазин
-ar:^المتجر
+ar:^متجر
 cs:^Obchod
 da:^Butik
 nl:^Winkel
@@ -197,7 +197,7 @@ sw:^Duka
 @hotel
 en:^Hotel
 ru:^Гостиница
-ar:^الفندق
+ar:^فندق
 cs:^Hotel
 da:^Hotel
 nl:^Hotel
@@ -261,7 +261,7 @@ sk:Pamätihodnosť
 @entertainment
 en:Entertainment
 ru:Развлечения
-ar:التسلية
+ar:ترفيه وتسلية
 cs:Zábava
 da:Underholdning
 nl:Uitgaan
@@ -293,7 +293,7 @@ sk:Zábava
 @atm
 en:^ATM
 ru:3^Банкомат
-ar:^ماكينةالصرافالآلي
+ar:^ماكينة صرافة آلية
 cs:3^Bankomat
 da:3^Hæveautomat
 nl:3^Geldautomaat
@@ -326,7 +326,7 @@ sw:^Benki|fedha
 amenity-atm|@atm
 en:money|U+1F3E7|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:деньги
-ar:ماكينة الصراف الآلي|الأموال|فلوس|atm
+ar:ماكينة صراف آلي|أموال|فلوس|atm|مال|الصراف الآلي
 cs:spořitelna|peníze
 da:penge
 nl:geld
@@ -357,7 +357,7 @@ sk:sporiteľna|peniaze
 @bank
 en:3^Bank
 ru:3^Банк
-ar:^البنك
+ar:1^بنك
 cs:3^Banka
 da:3^Bank
 nl:3^Bank
@@ -390,7 +390,7 @@ sw:^Benki|fedha
 amenity-bank|@bank
 en:money|U+1F3E6|U+1F4B0|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:деньги
-ar:البنك|الأموال
+ar:مال|فلوس|نقود|البنك|الأموال
 cs:peníze
 da:3penge
 nl:geld
@@ -450,7 +450,7 @@ sk:3^Zmenáreň|peniaze
 amenity-bar|@food
 en:2^Bar|2pub|beer|drink|U+1F37A|U+1F37B|U+1F376
 ru:2^Бар|2паб|пиво|выпить|еда
-ar:^الحانة|خمارة์|بيرة ์|شراب
+ar:^حانة|خمارة|بيرة|شراب
 cs:2^Bar|pivo|pití|voda|pitná voda|tekutiny
 da:2^Bar|øl|pub|drink
 nl:2^Bar|2pub|2café|bier|drinken
@@ -482,7 +482,7 @@ sw:^Baa|vinywaji
 amenity-pub|@food
 en:2^Pub|bar|beer|U+1F37A|U+1F37B
 ru:^Паб|бар|пиво|выпить|еда
-ar:^بار|الحانة|خمارة์|بيرة ์|شراب
+ar:^بار|حانة|خمارة|بيرة|شراب
 cs:^Hospoda|Bar|pivo|pití|voda|pitná voda|tekutiny
 da:^Værtshus|kro|bar|pub|øl|drink
 nl:^Kroeg|Bar|bier|drinken
@@ -513,7 +513,7 @@ sk:^Pohostinstvo|Bar|pivo|pitie|voda|pitná voda|tekutiny
 amenity-cafe|@food
 en:3^Cafe|3restaurant|U+2615|U+1F356|U+1F357|U+1F35A|U+1F35B|U+1F35C|U+1F35D|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374|U+1F377|U+1F60B|U+1F375
 ru:3^Кафе|3ресторан|3еда
-ar:^مقهى|مطعم่|طعام
+ar:^مقهى|قهوة|كافيه
 cs:3^Kavárna|restaurace|hospoda
 da:3^Café|restaurant
 nl:3^Tearoom|3brasserie|3café|3restaurant
@@ -545,7 +545,7 @@ sw:^Mgahawa|hoteli|chakula
 amenity-fast_food|@food
 en:4^Fast Food|3restaurant|3cafe|takeaway|U+1F354|U+1F355|U+1F35F|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374
 ru:3^Фастфуд|3ресторан|3кафе|еда
-ar:^وجبات سريعة|مطعم|مقهى|وجبة جاهزة|طعام
+ar:^وجبات سريعة|مطعم|وجبة جاهزة|طعام
 cs:2^Rychlé občerstvení|4fastfood|kavárna|restaurace
 da:4^Fastfood|restaurant|café|takeaway
 nl:4^Fast food|3frituur|fritkot|3restaurant|afhaaleten
@@ -576,7 +576,7 @@ sk:2^Rýchle občerstvenie|4fastfood|3kaviareň|reštaurácia
 amenity-restaurant|@food
 en:3^Restaurant|3cafe|U+1F356|U+1F357|U+1F35A|U+1F35B|U+1F35C|U+1F35D|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374|U+1F377|U+1F60B
 ru:3^Ресторан|3кафе|еда
-ar:1^مطعم|مقهى|طعام
+ar:1^مطعم|طعام
 cs:3^Restaurace|hospoda|kavárna
 da:3^Restaurant|café
 nl:3^Restaurant|3café
@@ -637,7 +637,7 @@ sw:^Sheli|mafuta
 shop-bakery|@shop
 en:3^Bakery|U+1F35E
 ru:3^Булочная|магазин
-ar:^مخبزี่|متجر
+ar:^مخبز|متجر
 cs:3^Pekárna
 da:2^Bager|bageri
 nl:3^Bakkerij
@@ -684,7 +684,7 @@ el:Κατάστημα
 shop-cosmetics|@shop
 en:4^Beauty Care|home care|U+1F3EC|U+1F3EA
 ru:^Магазин косметики|4Косметика|бытовая химия|магазин
-ar:^ﻞﻴﻤﺠﺘﻟﺍ ﺕﺍﺮﻀﺤﺘﺴﻣ|تجميل
+ar:^مستحضرات تجميل|تجميل
 cs:4^Kosmetika|domácí péče
 da:4^Kosmetik
 nl:4^Schoonheidsmiddelen
@@ -840,7 +840,7 @@ sk:^Kvety|kvetinárstvo
 shop-butcher|@shop
 en:^Butcher’s|U+1F356|U+1F357
 ru:^Мясная лавка|мясо|2магазин
-ar:^ججزارة|متجر
+ar:^جزار|جزارة|متجر
 cs:^Řeznictví
 da:^Slagter|slagterbutik
 nl:^Slager|beenhouwer
@@ -1026,7 +1026,7 @@ sk:^Elektronika
 shop-hardware|shop-doityourself|@shop
 en:^Hardware Store|DIY|do it yourself|U+1F3EC|U+1F3EA|U+1F50B|U+1F50C|U+1F4A1|U+1F526|U+1F529|U+1F528|U+2614
 ru:^Хозяйственный|Стройтовары|магазин
-ar:^متجر حواسيب|متجر|متجر مستلزمات تشطيب|متجر ديكور
+ar:^متجر عِدد وأدوات|متجر|متجر مستلزمات تشطيب|متجر ديكور
 cs:^Železářství
 da:^Isenkræmmer|Byggemarked
 nl:^Ijzerhandel|Bouwmarkt
@@ -1150,7 +1150,7 @@ sk:^Darčeky
 shop-beauty
 en:^Beauty Shop|beautician|U+1F484
 ru:^Салон красоты|косметический салон
-ar:^ﻞﻴﻤﺠﺗ ﻥﻮﻟﺎﺻ
+ar:^مركز تجميل
 cs:^Kosmetický salon
 da:^Skønhedssalon
 nl:^Schoonheidssalon
@@ -1277,7 +1277,7 @@ sw:^Supamaketi
 shop-mall|@shop
 en:^Mall|5shopping mall
 ru:^Торговый центр|магазин
-ar:^ﻝﻮﻣ
+ar:^مركز تسوق|مول
 cs:^Obchoďák
 da:^Indkøbscenter|butikscenter|storcenter|center
 nl:^Het winkelcentrum
@@ -1401,7 +1401,7 @@ sk:^Obchod s výpočtovou technikou
 shop-confectionery|@shop
 en:^Sweets|3confectionery|candy store|U+1F36C|U+1F36D
 ru:^Кондитерская|магазин
-ar:^حلواني|متجر حلويات
+ar:^متجر حلويات|حلويات
 cs:^Cukrárna
 da:^Slikbutik|slikforretning|konfektureforretning|slik|konfekt
 nl:^Banketbakker|snoepwinkel
@@ -1432,7 +1432,7 @@ sk:^Cukrovinky
 shop-laundry
 en:4^Laundry|laundromat
 ru:4^Прачечная|стирка
-ar:^مغسلة|غسيل ملابس
+ar:^مغسلة ملابس|غسيل ملابس
 cs:4^Prádelna|veřejná prádelna
 da:4^Vaskeri|møntvask
 nl:4^Wasserette
@@ -1463,7 +1463,7 @@ sk:4^Práčovňa
 shop-toys|@shop
 en:^Toy Store
 ru:^Магазин игрушек|игрушки|магазин
-ar:^محل لعب
+ar:^متجر ألعاب|لعب
 cs:^Hračkářství
 da:^Legetøjsbutik|legetøj
 nl:^Speelgoedwinkel
@@ -1493,7 +1493,7 @@ sk:^Hračkárstvo
 amenity-marketplace|@shop
 en:3^Marketplace|market
 ru:3^Рынок|базар|магазин
-ar:^ساحة السوق|السوق|متجر
+ar:^سوق|تسوق|متجر
 cs:4^Tržiště|samoobsluha|market
 da:3^Markedsplads|marked
 nl:3^Markt
@@ -1522,7 +1522,7 @@ sw:^Soko
 shop-clothes|@shop
 en:^Clothes Shop|4clothes|U+1F45A|U+1F457|U+1F456|U+1F455
 ru:^Магазин одежды|4одежда|магазин
-ar:^متجر ألبسة
+ar:^متجر ملابس|ملابس
 cs:^Oblečení
 da:^Tøjbutik|tøjforretning|tøj
 nl:^Kledingwinkel|4kleding
@@ -1554,7 +1554,7 @@ sw:^Duka la nguo|nguo
 shop-car|@shop
 en:^Car Shop|U+1F697|U+1F698|U+1F699
 ru:^Автосалон|магазин
-ar:^متجر سيارات
+ar:^متجر سيارات|سيارات
 cs:^Obchod s auty
 da:^Bilforhandler
 nl:^Autohandelaar
@@ -1586,7 +1586,7 @@ sw:^Yadi|duka la gari|gari
 shop-bicycle|@shop
 en:4^Bicycle Shop|cycle|bike|U+1F6B2|U+1F6B4|U+1F6B5
 ru:4^Веломагазин|велосипед|магазин
-ar:^متجر دراجات
+ar:^متجر دراجات|دراجات|دراجة
 cs:3^Cyklistický obchod|jízdní kolo|3kolo
 da:3^Cykelforretning|cykelhandler|cykler
 nl:4^Fietsenwinkel
@@ -1644,7 +1644,7 @@ sw:^Kioski
 highway-bus_stop|@transport
 en:^Bus Stop|2bus|stop|U+1F68C|U+1F68F|U+1F68E|U+1F690
 ru:4^Остановка|4автобус|4транспорт
-ar:^محطة الحافلة์|حافلة|نقل
+ar:^محطة انتظار حافلة|حافلة|نقل|باص|اتوبيس
 cs:^Autobusová zastávka|4autobus|2bus|zastávka|stanice
 da:3^Busstoppested|bus
 nl:^Bushalte|2bus|halte
@@ -1676,7 +1676,7 @@ sw:^Kituo cha basi|basi|usafiri
 railway-tram_stop|@transport
 en:^Tram Stop|3tram|stop|U+1F683
 ru:4^Остановка|4трамвай|4транспорт
-ar:^محطة الترام|نقل
+ar:^محطة ترام|نقل
 cs:^Tramvajová zastávka|3tramvaj|4zastávka|stanice
 da:3^Sporvogn|station
 nl:3^Tramhalte
@@ -1707,7 +1707,7 @@ sk:^Električková zastávka|3električka|4zastávka|stanica
 amenity-bus_station|@transport
 en:^Bus Station|2bus|station|U+1F68C|U+1F68F|U+1F68D
 ru:^Автовокзал|Автостанция|4автобус|4остановка|4транспорт
-ar:^محطة الباص|حافلة|نقل
+ar:^محطة حافلات|حافلة|باص|اتوبيس|نقل
 cs:^Autobusové nádraží|zastávka|bus
 da:2^Busstation|2bus|station
 nl:^Busstation|2bus|station
@@ -1739,7 +1739,7 @@ sw:^Stendi ya basi|basi|stendi|usafiri
 railway-station|railway-halt|building-train_station|@transport
 en:3^Train Station|4railway|railroad|3train|4station|U+1F684|U+1F685|U+1F689|U+1F682|U+1F686|U+1F688|U+1F68A|U+1F68B
 ru:^Ж/д станция|3поезд|3станция|4транспорт
-ar:^سكة الحديدี|محطة القطارี|محطةี|نقل
+ar:^محطة سكة حديد|محطة قطار|محطة|نقل
 cs:3^Železniční stanice|vlakové nádraží|2vlak
 da:4^Togstation|4station|3jernbane
 nl:4^Station|4spoorwegen|spoor|3trein
@@ -1771,7 +1771,7 @@ sw:^Kituo cha treni|treni|usafiri
 railway-subway_entrance|railway-station-subway|@transport
 en:3^Subway|3tube|3metro|3underground|U+1F687
 ru:3^Метро|транспорт
-ar:^محطة|القطار الكهربائي النفقي|قطار الأنفاق|المترو|تحت الأرض
+ar:1^محطة مترو|القطار الكهربائي النفقي|قطار الأنفاق|المترو|تحت الأرض
 cs:3^Metro|3podzemka
 da:3^Metro|3undergrundsbane|3undergrund
 nl:3^Metro
@@ -1803,7 +1803,7 @@ sw:^Reli ya chini
 amenity-ferry_terminal|@transport
 en:3^Ferry|terminal|U+1F6A2|U+1F6A4|U+2693
 ru:3^Паром|транспорт
-ar:^مركب|محطة|نقل
+ar:^محطة مراكب|محطة|نقل
 cs:3^Trajekt
 da:2^Færge|færgehavn|terminal
 nl:3^Veerpont|veerboot|veer|pont|overzetboot
@@ -1835,7 +1835,7 @@ sw:^Bandali|kivuko
 amenity-taxi|@transport
 en:3^Taxi|U+1F695|U+1F696
 ru:3^Такси|транспорт
-ar:^تكسي|نقل
+ar:^سيارة أجرة|تاكسي|نقل
 cs:3^Taxi
 da:3^Taxi|taxa
 nl:3^Taxi
@@ -1899,7 +1899,7 @@ sw:^Ukumbi|utalii
 tourism-attraction
 en:3^Attraction|3tourism|3sights|U+1F3A0|U+1F3A1|U+1F3A2|U+1F3AA
 ru:4^Достопримечательность|3туризм|3аттракцион
-ar:^أماكن الجذب|سياحة|مناظر
+ar:^مكان جذاب|سياحة|مناظر
 cs:3^Atrakce|3pamětihodnost|3zajímavost
 da:3^Attraktioner|3turisme|3sightseeing|3seværdigheder
 nl:3^Attractie|3toerisme
@@ -1931,7 +1931,7 @@ sw:^Kivutio|utalii
 tourism-artwork|@tourism
 en:3^Artwork|3tourism|U+1F3A8
 ru:3^Произведение искусства|3туризм|3скульптура|достопримечательность
-ar:^مناظر
+ar:^عمل فني
 cs:3^Umělecké dílo
 da:3^Kunstværk|3sightseeing
 nl:3^Kunstwerk
@@ -1963,7 +1963,7 @@ sw:^Kazi ya kisanaa|utalii
 tourism-viewpoint|@tourism
 en:4^Viewpoint|tourism
 ru:4^Обзорная площадка|туризм|достопримечательность
-ar:^أماكن مراقبة|مناظر
+ar:^مكان مشاهدة|مناظر
 cs:3^Vyhlídka|zajímavost
 da:^Udsigtspunkt|sightseeing
 nl:4^Uitzicht|panorama
@@ -2027,7 +2027,7 @@ sw:^Taarifa ya utalii|taarifa
 tourism-picnic_site|amenity-bbq
 en:3^Picnic Site
 ru:^Место для пикника|3Пикник
-ar:^أماكن للرحلات|مناظر
+ar:^مكان نزهة|فسحة|مناظر
 cs:3^Piknik|picnic|picnik
 da:3^Picnic
 nl:3^Picnicplaats|3picnicweide|3picnictafel
@@ -2059,7 +2059,7 @@ sw:^Sehemu ya madhazi
 amenity-place_of_worship|@tourism
 en:4^Place of Worship|3temple|U+1F64F
 ru:3^Храм|достопримечательность
-ar:1^مكان للعبادة|1معبد
+ar:1^مكان عبادة|مسجد|كنيسة|معبد
 cs:4^Posvátné místo|3chrám
 da:3^Tempel|3kultsted
 nl:3^Gebedsplaats|3gebedshuis|3tempel
@@ -2122,7 +2122,7 @@ sk:^Chrám|kostol|svätyňa|posvätné miesto
 amenity-place_of_worship-muslim|@tourism
 en:^Mosque|tekke|place of worship|temple|U+1F64F|U+262A|U+1F54B|U+1F54C|U+262A
 ru:^Мечеть|храм|достопримечательность
-ar:^مسجد|مكان للعبادة|معبد
+ar:^مسجد|مكان عبادة|جامع|مصلى|معبد
 cs:^Mešita|chrám|posvátné místo
 da:^Moske|tempel|kultsted
 nl:^Moskee|tempel|gebedsplaats|gebedshuis
