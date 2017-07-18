@@ -36,7 +36,7 @@
 @food
 en:Food
 ru:Еда
-ar:الطعام
+ar:طعام
 cs:Jídlo
 da:Mad
 nl:Eten
@@ -68,7 +68,7 @@ sk:Jedlo
 @transport
 en:Transport
 ru:Транспорт
-ar:النقل
+ar:مواصلات
 cs:Doprava
 da:Transport
 nl:Transport
@@ -100,7 +100,7 @@ sk:Doprava
 @fuel
 en:2Gas
 ru:3^Заправка
-ar:1الغاز
+ar:1وقود
 cs:2^Čerpací stanice
 da:Brændstof|Benzin
 nl:3Benzine
@@ -132,7 +132,7 @@ sk:3^Čerpacia stanica
 @parking
 en:^Parking
 ru:^Парковка
-ar:^الاصطفاف
+ar:^موقف سيارات
 cs:^Parkoviště
 da:^Parkering
 nl:^Parkeerplaats
@@ -164,7 +164,7 @@ sk:^Parkovisko
 @shop
 en:^Shop
 ru:^Магазин
-ar:^المتجر
+ar:^متجر
 cs:^Obchod
 da:^Butik
 nl:^Winkel
@@ -197,7 +197,7 @@ sw:^Duka
 @hotel
 en:^Hotel
 ru:^Гостиница
-ar:^الفندق
+ar:^فندق
 cs:^Hotel
 da:^Hotel
 nl:^Hotel
@@ -261,7 +261,7 @@ sk:Pamätihodnosť
 @entertainment
 en:Entertainment
 ru:Развлечения
-ar:التسلية
+ar:ترفيه وتسلية
 cs:Zábava
 da:Underholdning
 nl:Uitgaan
@@ -293,7 +293,7 @@ sk:Zábava
 @atm
 en:^ATM
 ru:3^Банкомат
-ar:^ماكينةالصرافالآلي
+ar:^ماكينة صرافة آلية
 cs:3^Bankomat
 da:3^Hæveautomat
 nl:3^Geldautomaat
@@ -326,7 +326,7 @@ sw:^Benki|fedha
 amenity-atm|@atm
 en:money|U+1F3E7|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:деньги
-ar:ماكينة الصراف الآلي|الأموال|فلوس|atm
+ar:ماكينة الصراف الآلي|الأموال|فلوس|صرافة آلية|نقود
 cs:spořitelna|peníze
 da:penge
 nl:geld
@@ -357,7 +357,7 @@ sk:sporiteľna|peniaze
 @bank
 en:3^Bank
 ru:3^Банк
-ar:^البنك
+ar:^بنك
 cs:3^Banka
 da:3^Bank
 nl:3^Bank
@@ -390,7 +390,7 @@ sw:^Benki|fedha
 amenity-bank|@bank
 en:money|U+1F3E6|U+1F4B0|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:деньги
-ar:البنك|الأموال
+ar:البنك|الأموال|فلوس|نقود|مال
 cs:peníze
 da:3penge
 nl:geld
@@ -419,7 +419,7 @@ sk:peniaze
 amenity-bureau_de_change
 en:3^Currency Exchange|3exchange|money|U+1F4B1|U+1F4B2|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:3^Обмен валюты|обменник|4валюта|деньги
-ar:^صرف العملات|الصرف|الأموال
+ar:^تحويل عملات|تغيير عملات|الصرف|الأموال|صرف عملات|صرف
 cs:3^Směnárna|peníze
 da:3^Vekselbureau|3penge
 nl:3^Wisselkantoor|3geld wisselen|wisselen|geld
@@ -450,7 +450,7 @@ sk:3^Zmenáreň|peniaze
 amenity-bar|@food
 en:2^Bar|2pub|beer|drink|U+1F37A|U+1F37B|U+1F376
 ru:2^Бар|2паб|пиво|выпить|еда
-ar:^الحانة|خمارة์|بيرة ์|شراب
+ar:^حانة|خمارة์|بيرة|شراب
 cs:2^Bar|pivo|pití|voda|pitná voda|tekutiny
 da:2^Bar|øl|pub|drink
 nl:2^Bar|2pub|2café|bier|drinken
@@ -482,7 +482,7 @@ sw:^Baa|vinywaji
 amenity-pub|@food
 en:2^Pub|bar|beer|U+1F37A|U+1F37B
 ru:^Паб|бар|пиво|выпить|еда
-ar:^بار|الحانة|خمارة์|بيرة ์|شراب
+ar:^بار|حانة|خمارة|بيرة|شراب
 cs:^Hospoda|Bar|pivo|pití|voda|pitná voda|tekutiny
 da:^Værtshus|kro|bar|pub|øl|drink
 nl:^Kroeg|Bar|bier|drinken
@@ -513,7 +513,7 @@ sk:^Pohostinstvo|Bar|pivo|pitie|voda|pitná voda|tekutiny
 amenity-cafe|@food
 en:3^Cafe|3restaurant|U+2615|U+1F356|U+1F357|U+1F35A|U+1F35B|U+1F35C|U+1F35D|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374|U+1F377|U+1F60B|U+1F375
 ru:3^Кафе|3ресторан|3еда
-ar:^مقهى|مطعم่|طعام
+ar:^مقهى|مطعم|طعام|قهوة|كافتيريا
 cs:3^Kavárna|restaurace|hospoda
 da:3^Café|restaurant
 nl:3^Tearoom|3brasserie|3café|3restaurant
@@ -608,7 +608,7 @@ sw:^Hoteli|restorenti|mgahawa|chakula
 amenity-fuel|@fuel
 en:^Gas Station|3fuel|petrol|petrol station|U+26FD
 ru:Бензин|топливо|азс
-ar:^محطة وقود|وقود|غاز
+ar:^محطة وقود|وقود|غاز|بترول
 cs:2pumpa
 da:3^Tankstation
 nl:3^Tankstation|3brandstof
@@ -637,7 +637,7 @@ sw:^Sheli|mafuta
 shop-bakery|@shop
 en:3^Bakery|U+1F35E
 ru:3^Булочная|магазин
-ar:^مخبزี่|متجر
+ar:^مخبز|متجر
 cs:3^Pekárna
 da:2^Bager|bageri
 nl:3^Bakkerij
@@ -684,7 +684,7 @@ el:Κατάστημα
 shop-cosmetics|@shop
 en:4^Beauty Care|home care|U+1F3EC|U+1F3EA
 ru:^Магазин косметики|4Косметика|бытовая химия|магазин
-ar:^ﻞﻴﻤﺠﺘﻟﺍ ﺕﺍﺮﻀﺤﺘﺴﻣ|تجميل
+ar:^مستحضرات تجميل|تجميل
 cs:4^Kosmetika|domácí péče
 da:4^Kosmetik
 nl:4^Schoonheidsmiddelen
@@ -778,7 +778,7 @@ sk:^Škôlka|materská škôlka
 shop-mobile_phone|@shop
 en:^Cell Phones|Mobile Phones|electronics store|U+1F3EC|U+1F3EA|U+1F4F1|U+1F4F2
 ru:^Магазин мобильных телефонов|Сотовые|3Мобильные телефоны|электроника|салон связи|магазин
-ar:^متجر هواتف محمولة|متجر إلكترونيات
+ar:^متجر هواتف محمولة|متجر إلكترونيات|متجر هواتف خلوية|هاتف
 cs:^Mobily|Obchod s mobilními telefony|obchod s elektronikou
 da:^Mobiltelefonbutik|elektronikforretning
 nl:^Mobiele telefoonwinkel|elektronicawinkel
@@ -809,7 +809,7 @@ sk:^Mobilné telefóny
 shop-florist|@shop
 en:^Florist’s|U+1F337|U+1F338|U+1F339|U+1F33A|U+1F33B|U+1F33C|U+1F490|U+1F33E
 ru:^Цветочный магазин|цветы|2магазин
-ar:^محل زهور|متجر زهور|متجر
+ar:^متجر زهور|متجر
 cs:^Květinářství
 da:^Blomsterbutik|blomsterforretning|blomsterhandel|blomsterhandler
 nl:^Bloemist|bloemenwinkel
